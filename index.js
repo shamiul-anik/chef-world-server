@@ -16,8 +16,8 @@ app.get("/chefs", (req, res) => {
 });
 
 app.get(`/recipes/:id`, (req, res) => {
-  const id = req.params.id; // requesting for specific chef's details with id
-  const findDetails = chefs.find((details) => details.id === id);
+  const id = parseInt(req.params.id); // requesting for specific chef's details with id
+  const findDetails = chefs.find((details) => parseInt(details.id) === id);
   res.send(findDetails); // finding details information about Chef's recipes with id
 });
 
