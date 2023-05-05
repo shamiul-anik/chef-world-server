@@ -10,6 +10,7 @@
 		"recipes": [
 			{
 				"recipe_name": "Kung Pao Chicken",
+				"recipe_url": "https://i.ibb.co/9wVGK5G/kung-pao-chicken.jpg",
 				"recipe_ingredients": [
 					"chicken breast",
 					"peanuts",
@@ -23,6 +24,7 @@
 			},
 			{
 				"recipe_name": "Hot and Sour Soup",
+				"recipe_url": "https://i.ibb.co/PW3XRmR/hot-and-sour-soup.jpg",
 				"recipe_ingredients": [
 					"meat",
 					"bamboo shoots",
@@ -36,6 +38,7 @@
 			},
 			{
 				"recipe_name": "Mapo Tofu",
+				"recipe_url": "https://i.ibb.co/RPmsPwM/mapo-tofu.jpg",
 				"recipe_ingredients": [
 					"tofu",
 					"ground meat",
@@ -49,6 +52,7 @@
 			},
 			{
 				"recipe_name": "Dumplings",
+				"recipe_url": "https://i.ibb.co/s65HGFy/dumplings.jpg",
 				"recipe_ingredients": [
 					"meat",
 					"chives",
@@ -65,6 +69,7 @@
 			},
 			{
 				"recipe_name": "Stir-fried Green Beans",
+				"recipe_url": "https://i.ibb.co/BCwFS4v/stir-fried-green-beans.webp",
 				"recipe_ingredients": [
 					"green beans",
 					"garlic",
@@ -89,6 +94,7 @@
 		"recipes": [
 			{
 				"recipe_name": "Dumplings",
+				"recipe_url": "https://i.ibb.co/s65HGFy/dumplings.jpg",
 				"recipe_ingredients": [
 					"ground meat",
 					"chives",
@@ -105,6 +111,7 @@
 			},
 			{
 				"recipe_name": "Stir-fried Green Beans",
+				"recipe_url": "https://i.ibb.co/BCwFS4v/stir-fried-green-beans.webp",
 				"recipe_ingredients": [
 					"green beans",
 					"garlic",
@@ -118,6 +125,7 @@
 			},
 			{
 				"recipe_name": "Kung Pao Shrimp",
+				"recipe_url": "https://i.ibb.co/wcXNH29/kung-pao-shrimp.jpg",
 				"recipe_ingredients": [
 					"shrimp",
 					"peanuts",
@@ -131,6 +139,7 @@
 			},
 			{
 				"recipe_name": "Kung Pao Chicken",
+				"recipe_url": "https://i.ibb.co/9wVGK5G/kung-pao-chicken.jpg",
 				"recipe_ingredients": [
 					"chicken breast",
 					"peanuts",
@@ -155,6 +164,7 @@
 		"recipes": [
 			{
 				"recipe_name": "Xiaolongbao",
+				"recipe_url": "https://i.ibb.co/pX0fqj3/xiaolongbao.jpg",
 				"recipe_ingredients": [
 					"meat",
 					"ginger",
@@ -171,6 +181,7 @@
 			},
 			{
 				"recipe_name": "Shanghai Fried Noodles",
+				"recipe_url": "https://i.ibb.co/sRzm9Q3/shanghai-fried-noodles.webp",
 				"recipe_ingredients": [
 					"noodles",
 					"meat",
@@ -188,9 +199,10 @@
 				"likes": 1200
 			},
 			{
-				"recipe_name": "Braised Meat Belly",
+				"recipe_name": "Braised Beef",
+				"recipe_url": "https://i.ibb.co/2PJ9Yfd/braised-beef.jpg",
 				"recipe_ingredients": [
-					"meat belly",
+					"beef",
 					"rock sugar",
 					"soy sauce",
 					"rice wine",
@@ -199,7 +211,7 @@
 					"star anise",
 					"cinnamon stick"
 				],
-				"cooking_method": "Cut the meat belly into pieces and brown them in a pot. Add the rock sugar, soy sauce, rice wine, scallions, ginger, star anise, and cinnamon stick. Cover and simmer for 2-3 hours until the meat is tender.",
+				"cooking_method": "Cut the beef into pieces and brown them in a pot. Add the rock sugar, soy sauce, rice wine, scallions, ginger, star anise, and cinnamon stick. Cover and simmer for 2-3 hours until the meat is tender.",
 				"rating": 4.6,
 				"likes": 1400
 			}
@@ -216,6 +228,7 @@
 		"recipes": [
 			{
 				"recipe_name": "Kung Pao Chicken",
+				"recipe_url": "https://i.ibb.co/9wVGK5G/kung-pao-chicken.jpg",
 				"recipe_ingredients": [
 					"chicken breast",
 					"peanuts",
@@ -229,6 +242,7 @@
 			},
 			{
 				"recipe_name": "Hot and Sour Soup",
+				"recipe_url": "https://i.ibb.co/PW3XRmR/hot-and-sour-soup.jpg",
 				"recipe_ingredients": [
 					"meat",
 					"bamboo shoots",
@@ -242,6 +256,7 @@
 			},
 			{
 				"recipe_name": "Mapo Tofu",
+				"recipe_url": "https://i.ibb.co/RPmsPwM/mapo-tofu.jpg",
 				"recipe_ingredients": [
 					"tofu",
 					"ground meat",
@@ -255,6 +270,7 @@
 			},
 			{
 				"recipe_name": "Dumplings",
+				"recipe_url": "https://i.ibb.co/s65HGFy/dumplings.jpg",
 				"recipe_ingredients": [
 					"meat",
 					"chives",
@@ -271,6 +287,7 @@
 			},
 			{
 				"recipe_name": "Stir-fried Green Beans",
+				"recipe_url": "https://i.ibb.co/BCwFS4v/stir-fried-green-beans.webp",
 				"recipe_ingredients": [
 					"green beans",
 					"garlic",
@@ -295,6 +312,7 @@
 		"recipes": [
 			{
 				"recipe_name": "Dumplings",
+				"recipe_url": "https://i.ibb.co/s65HGFy/dumplings.jpg",
 				"recipe_ingredients": [
 					"ground meat",
 					"chives",
@@ -311,6 +329,7 @@
 			},
 			{
 				"recipe_name": "Stir-fried Green Beans",
+				"recipe_url": "https://i.ibb.co/BCwFS4v/stir-fried-green-beans.webp",
 				"recipe_ingredients": [
 					"green beans",
 					"garlic",
@@ -324,6 +343,7 @@
 			},
 			{
 				"recipe_name": "Kung Pao Shrimp",
+				"recipe_url": "https://i.ibb.co/wcXNH29/kung-pao-shrimp.jpg",
 				"recipe_ingredients": [
 					"shrimp",
 					"peanuts",
@@ -337,6 +357,7 @@
 			},
 			{
 				"recipe_name": "Kung Pao Chicken",
+				"recipe_url": "https://i.ibb.co/9wVGK5G/kung-pao-chicken.jpg",
 				"recipe_ingredients": [
 					"chicken breast",
 					"peanuts",
@@ -350,6 +371,7 @@
 			},
 			{
 				"recipe_name": "Mapo Tofu",
+				"recipe_url": "https://i.ibb.co/RPmsPwM/mapo-tofu.jpg",
 				"recipe_ingredients": [
 					"tofu",
 					"ground meat",
@@ -363,6 +385,7 @@
 			},
 			{
 				"recipe_name": "Hot and Sour Soup",
+				"recipe_url": "https://i.ibb.co/PW3XRmR/hot-and-sour-soup.jpg",
 				"recipe_ingredients": [
 					"meat",
 					"bamboo shoots",
@@ -387,6 +410,7 @@
 		"recipes": [
 			{
 				"recipe_name": "Xiaolongbao",
+				"recipe_url": "https://i.ibb.co/pX0fqj3/xiaolongbao.jpg",
 				"recipe_ingredients": [
 					"meat",
 					"ginger",
@@ -403,6 +427,7 @@
 			},
 			{
 				"recipe_name": "Shanghai Fried Noodles",
+				"recipe_url": "https://i.ibb.co/sRzm9Q3/shanghai-fried-noodles.webp",
 				"recipe_ingredients": [
 					"noodles",
 					"meat",
@@ -420,9 +445,10 @@
 				"likes": 1200
 			},
 			{
-				"recipe_name": "Braised Meat Belly",
+				"recipe_name": "Braised Beef",
+				"recipe_url": "https://i.ibb.co/2PJ9Yfd/braised-beef.jpg",
 				"recipe_ingredients": [
-					"meat belly",
+					"beef",
 					"rock sugar",
 					"soy sauce",
 					"rice wine",
@@ -431,12 +457,13 @@
 					"star anise",
 					"cinnamon stick"
 				],
-				"cooking_method": "Cut the meat belly into pieces and brown them in a pot. Add the rock sugar, soy sauce, rice wine, scallions, ginger, star anise, and cinnamon stick. Cover and simmer for 2-3 hours until the meat is tender.",
+				"cooking_method": "Cut the beef into pieces and brown them in a pot. Add the rock sugar, soy sauce, rice wine, scallions, ginger, star anise, and cinnamon stick. Cover and simmer for 2-3 hours until the meat is tender.",
 				"rating": 4.6,
 				"likes": 1400
 			},
 			{
         "recipe_name": "Steamed Fish",
+				"recipe_url": "https://i.ibb.co/z8z5pj1/steamed-fish.jpg",
         "recipe_ingredients": [
           "whole fish",
           "soy sauce",
@@ -451,6 +478,7 @@
       },
       {
         "recipe_name": "Egg Drop Soup",
+				"recipe_url": "https://i.ibb.co/SrSksqD/egg-drop-soup.jpg",
         "recipe_ingredients": [
           "chicken broth",
           "eggs",
@@ -465,6 +493,7 @@
       },
       {
         "recipe_name": "Wonton Soup",
+				"recipe_url": "https://i.ibb.co/XbTmjNz/wonton-soup.jpg",
         "recipe_ingredients": [
           "ground meat",
           "wonton wrappers",
