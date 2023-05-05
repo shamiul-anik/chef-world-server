@@ -3,7 +3,7 @@
 ## Live Website Link
 https://chef-world-shamiul.web.app
 
-## API Link
+## API Links
 
 ### All Chef's Details :
 https://chef-world-server.vercel.app/chefs
